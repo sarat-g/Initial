@@ -1,2 +1,2 @@
-# Initial
-Practicing the concepts
+# Classes
+Practicing the core concepts 
